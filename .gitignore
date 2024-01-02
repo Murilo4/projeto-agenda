@@ -137,3 +137,4 @@ GitHub.sublime-settings
 .history
 /static
 comandos_para_atualizar_dados.txt
+local_settings.py
